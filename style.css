@@ -1,0 +1,17 @@
+h1 {
+  color: red;
+}
+
+h2 {
+  color: green;
+}
+
+main {
+  background-color: bisque;
+  color: blue;
+}
+
+.note {
+  color: green;
+  font-weight: bold;
+}
